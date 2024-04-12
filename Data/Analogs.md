@@ -1,59 +1,62 @@
-# Analogs:
-- Html5 animations designers ([OnlyMega](https://onlymega.com), [Tumult Hype](https://tumult.com/hype/))
-  - **Pros:**
-    - Powerfulness (Work with 3D*, all requered tools for animations)
-    - Not interactive animations
-    - Not only html animations export, also video, images and other*
-    - There are animations templates**
-    - Included assets store**
-  - **Cons:**
-    - Not free - Paid use plans (Not all)
-- [Google Web Designer](https://webdesigner.withgoogle.com)
-  - **Pros:**
-    - Not only HTML5 animation designer (Plus videos, photos and other)
-    - Free
-    - Can manipulate 3D content (using CSS3) and 2D content as 3D content
-    - Pleasure to use
-    - There are animations templates
-  - **Cons:**
-    - Not ease to use (I don't understand how to animate in html5)
-  - **Unknown:**
-    - Optimizing the animation result
-- [Hippani Animator](https://www.hippani.com)
-  - **Pros:**
-    - Free (Has also Pro version and free trial for Pro)
-    - Ease to use
-    - Many instruments like *sound*, *YouTube*, *HotSpot*, *Link*, *Shapes*;
-    - Works with objects like *.gif*, *images*, *sound*, *.svg*, *.css*, *.js*
-    - Included manual
-  - **Cons:**
-    - Animation import only using JS (maybe, kind of)
-    - If using JS HTML5-animation, even for simple animations => not optimized
-    - Don't compress/change input objects an output => not optimized
-- [Mugeda](https://www.mugeda.com/app/download.php)
-  - **Cons:**
-    - All in chinese...
-  - **Unknown:**
-    - All, not including language...
-- [Radi](https://radiapp.com/)
-  - **Pros:**
-    - Powerful animation designer
-    - Ease to use (by view)
-    - Not only for Web, also: video, graphics program
-    - Used vertex animation
-  - **Cons:**
-    - Only for macOS
-    - Output: HTML + JS => Not optimized animation? *(But it's a tool for difficult animation so it's normal)*
-- Sites designers [Wix](https://www.wix.com/)
-  - **Pros:**
-    - Powerfull site designer
-    - Online-designer
-  - **Cons:**
-    - Specified for web-sites design, not html5 animations
-- 
-# Not full analogs:
-- [Animista ](https://animista.net/)
+# Аналоги
 
-\* \- Not all apps provide this feature
+- Редакторы анимации, с возможностью экспорта анимации в HTML-страницу
+  - Особенности
+    - Являются профессиональными инструментами для работы с анимацией
+    - Предоставляют инструменты для работы с интерактивной анимацией
+    - Предоставляют инструменты для работы с 3D анимацией\*
+    - Возможность экспорта в популярные видео-форматы: mp4, gif и другие
+    - Наличие шаблонов для новых проектов\*\*
+  - Недостатки
+    - Не бесплатны
+  - Нужно устанавливать
+  - Не кроссплатформены\*
+  - Примеры
+    - [Tumult Hype](https://tumult.com/hype/)
+    - [Hippani Animator](https://www.hippani.com)
+    - [Adobe Animate](https://www.adobe.com/ru/products/animate.html)
+    - [Radi](https://radiapp.com/)
+- Редакторы рекламных баннеров для веь-сайтов и не только
+  - Особенности
+    - Наличие шаблонов для новых проектов\*\*
+    - Бесплатные\*\*
+    - Предоставляют инструменты для работы с интерактивной анимацией
+    - Предоставляют инструменты для работы с 3D анимацией\*
+    - Возможность экспорта в популярные видео-форматы: mp4, gif и другие
+    - Наличие шаблонов для новых проектов\*\*
+  - Недостатки
+    - Нужно устанавливать или регистрироваться
+  - Примеры
+    - [OnlyMega](https://onlymega.com)
+    - [Google Web Designer](https://webdesigner.withgoogle.com)
+- Конструкторы сайтов, включающие инструменты для работы с анимацией
+- Особенности
+  - Бесплатные (С ограниченной функциональностью)\*\*
+  - Предоставляют инструменты для работы с интерактивной анимацией\*\*
+  - Предоставляют инструменты для работы с 3D анимацией\*
+  - Наличие шаблонов для новых проектов\*\*
+  - Недостатки
+    - Нужно регистрироваться
+    - Ограничена функциональность при бесплатном использовании
+  - Примеры
+    - [Wix](https://www.wix.com/)
+    - [Tobiz](https://redtobiz.ru/)
+    - [Tilda](https://tilda.cc/)
+    - [Рег.ру](https://www.reg.ru/web-sites/website-builder/)
 
-\** \- Most off apps provide this feature
+## Не полные аналоги
+
+- Генераторы CSS анимации
+  - Особенности
+    - Наличие шаблонов\*\*
+    - Бесплатные\*\*
+    - Предоставляют инструменты для работы с 3D анимацией\*
+    - Возможность экспорта в популярные видео-форматы: mp4, gif и другие (?)
+  - Недостатки
+    - Подходят только для тривиальных задач: генерации CSS анимации
+  - Примеры
+    - [Animista](https://animista.net/)
+
+\* \- Не все приложения обладают данной особенностью
+
+\*\* \- Большинство приложений обладают данной особенностью
