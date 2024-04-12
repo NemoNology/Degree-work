@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:34:34.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="cAhTVWL1_ycYzEvsaDfr" version="24.2.3" type="device">
+  <diagram id="0" name="Страница — 1">
+    <mxGraphModel dx="1432" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="368" y="535" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeColor=#000000;fillColor=none;fontSize=14;fontColor=#000000;fontFamily=Times New Roman;fontStyle=0" parent="2" vertex="1">
+          <mxGeometry x="30" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;" parent="2" vertex="1">
+          <mxGeometry width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-4" value="Экспорт проекта" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-6" value="- JSON;&lt;div&gt;- HMTL;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="570" y="625" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="4YWzN03d5VZz4BQA3aaA-4" target="4YWzN03d5VZz4BQA3aaA-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3" target="4YWzN03d5VZz4BQA3aaA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-9" value="Инициализация проекта" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="560" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="4YWzN03d5VZz4BQA3aaA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-18" value="Добавление&amp;nbsp; анимируемых элементов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="485" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4YWzN03d5VZz4BQA3aaA-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="4YWzN03d5VZz4BQA3aaA-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-4" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Разделитель;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Изображение;&lt;br&gt;&lt;div&gt;- Кнопка;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Поле ввода;&lt;/div&gt;&lt;div&gt;и другие&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="583" y="475" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="4YWzN03d5VZz4BQA3aaA-18" target="nm6ccGrlB0aqzbqsRv0P-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="250" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-6" value="Редактирование&amp;nbsp; анимируемых элементов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="430" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="nm6ccGrlB0aqzbqsRv0P-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-35" value="Создание таблиц стилей" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="278" y="480" width="75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-36" value="Создание CSS-анимаций" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="662.5" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-38" value="Создание JavaScript скриптов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="662.5" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="nm6ccGrlB0aqzbqsRv0P-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="nm6ccGrlB0aqzbqsRv0P-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="nm6ccGrlB0aqzbqsRv0P-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-42" value="Предпросмотр редактируемой анимации" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="616" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nm6ccGrlB0aqzbqsRv0P-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="3" target="nm6ccGrlB0aqzbqsRv0P-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wkhS8Q7le9qhlrpNcrFE-4" value="Удаление&amp;nbsp; анимируемых элементов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="232" y="548.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wkhS8Q7le9qhlrpNcrFE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3" target="wkhS8Q7le9qhlrpNcrFE-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
